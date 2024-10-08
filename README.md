@@ -44,4 +44,4 @@ Para rodar este projeto localmente, siga os seguintes passos:
 Para executar o dashboard localmente, basta rodar o comando abaixo:
 
 ```bash
-streamlit run app.py
+streamlit run streamlit_app.py
